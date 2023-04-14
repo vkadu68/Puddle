@@ -1,6 +1,6 @@
 # Buy and Sell Web Application using Django Framework
 
-![Image Alt Text](items_images/1.png)
+
 
 This web application is developed in Python using the Django framework, which allows users to buy and sell used products online. It comes with various features like user authentication, communication between users, form handling, and GUI for the dashboard.
 
@@ -21,17 +21,25 @@ This web application is developed in Python using the Django framework, which al
 To get started with the application, you need to follow these steps:
 
 Install Python 3.6 or higher.
+
 Install Django framework.
+
 Clone this repository to your local machine.
+
 Open the command prompt and navigate to the project directory.
+
 Run the command python manage.py runserver to start the server.
+
 Open the web browser and navigate to http://localhost:8000/ to access the application.
 
 ## Technology Stack
-Python 3.6+
-Django Framework
-HTML, CSS, and JavaScript
-PostgreSQL
+1. Python 3.6+
+
+2. Django Framework
+
+3. HTML, CSS, and JavaScript
+
+4. PostgreSQL
 
 ## Conclusion
 This web application is a useful platform for buying and selling used products online. With its easy-to-use interface and various features, it provides a seamless experience for users. Additionally, the optimized database performance ensures that the application can handle a large volume of data without any issues.
