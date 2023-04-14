@@ -1,5 +1,7 @@
 # Buy and Sell Web Application using Django Framework
 
+![Image Alt Text](items_images/1.png)
+
 This web application is developed in Python using the Django framework, which allows users to buy and sell used products online. It comes with various features like user authentication, communication between users, form handling, and GUI for the dashboard.
 
 ## Key Features
@@ -33,3 +35,8 @@ PostgreSQL
 
 ## Conclusion
 This web application is a useful platform for buying and selling used products online. With its easy-to-use interface and various features, it provides a seamless experience for users. Additionally, the optimized database performance ensures that the application can handle a large volume of data without any issues.
+
+![Image Alt Text](item_images/Chair1.jpeg)
+
+
+<img src="item_images/Chair1.jpeg" alt="Example Image" width="300" height="300">
