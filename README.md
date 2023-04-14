@@ -9,6 +9,8 @@ This web application is developed in Python using the Django framework, which al
 
 <b>Form Handling</b>: The form handling feature enables users to enter details about the product, including the product name, description, price, condition, and images.
 
+<b>Add, Delete, and Edit Items</b>: The web application allows users to add, delete, and edit items on the platform, providing flexibility and control over the products they list.
+
 <b>GUI for Dashboard</b>: A user-friendly dashboard interface is provided to facilitate easy browsing of products.
 
 <b>Database Management</b>: The application is optimized to handle a large volume of data by managing a database to store images and product details using GET and POST requests, resulting in a 40% improvement in database performance.
