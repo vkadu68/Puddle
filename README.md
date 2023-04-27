@@ -1,3 +1,7 @@
+https://user-images.githubusercontent.com/52993591/232161676-622f8567-4ab8-43a6-b4e8-4f1e6ccc06aa.mp4
+
+
+
 # Buy and Sell Web Application using Django Framework
 
 
@@ -45,7 +49,7 @@ Open the web browser and navigate to http://localhost:8000/ to access the applic
 This web application is a useful platform for buying and selling used products online. With its easy-to-use interface and various features, it provides a seamless experience for users. Additionally, the optimized database performance ensures that the application can handle a large volume of data without any issues.
 
 
-https://user-images.githubusercontent.com/52993591/232161676-622f8567-4ab8-43a6-b4e8-4f1e6ccc06aa.mp4
+
 
 
 
